@@ -5,6 +5,7 @@
 *  inside configureStore() call a object called reducer 
 
 # Example :
+
 ```
  export const store = configureStore({
     reducer : {
@@ -16,8 +17,11 @@
 
 # Example :
 
-### import store from './app/store';
-###  import { Provider } from 'react-redux';
+```
+ import store from './app/store';
+ import { Provider } from 'react-redux';
+
+```
 
 
 
